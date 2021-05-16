@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+
+body {
+font-family:  sans-serif;
+padding:.5%;
+text-align: center;
+background-color: #FDFD96;
+}
+
+
+h1, h2, h3{
+  font: sans-serif;
+ color: #add8e6;
+}
+
+p, ul{
+  color:#add8e6
+}
+
+
+ul li{
+  display: inline;
+  text-decoration: none;
+  padding: 3%;
+}
+
+main{
+  padding-top: 3%;
+}
+
+footer {
+  text-align: center;
+  padding-top: 30pt;
+}
